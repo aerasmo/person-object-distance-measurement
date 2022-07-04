@@ -5,6 +5,7 @@ A person-object distance measurement is simply a program that calculates the dis
 
 # Features
 - Custom load yolo model 
+- Configurable violation distances and saving options
 - Check distance between detected persons and object
 - Save distance violations on a specified directory
 
