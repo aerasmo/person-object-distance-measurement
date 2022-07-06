@@ -1,4 +1,4 @@
-# Person-object distance detection
+# Person-object distance measurement
 A notebook that shows different applications of person-object distance measurement. 
 
 A person-object distance measurement is simply a program that calculates the distance in px between a person and an object within the image/frame. The objects that can be detected is based on the loaded yolo model. 
